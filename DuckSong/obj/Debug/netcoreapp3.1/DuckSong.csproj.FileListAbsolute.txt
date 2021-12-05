@@ -1,0 +1,12 @@
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\DuckSong\bin\Debug\netcoreapp3.1\DuckSong.exe
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\DuckSong\bin\Debug\netcoreapp3.1\DuckSong.deps.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\DuckSong\bin\Debug\netcoreapp3.1\DuckSong.runtimeconfig.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\DuckSong\bin\Debug\netcoreapp3.1\DuckSong.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\DuckSong\bin\Debug\netcoreapp3.1\DuckSong.dll
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\DuckSong\bin\Debug\netcoreapp3.1\DuckSong.pdb
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\DuckSong\obj\Debug\netcoreapp3.1\DuckSong.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\DuckSong\obj\Debug\netcoreapp3.1\DuckSong.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\DuckSong\obj\Debug\netcoreapp3.1\DuckSong.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\DuckSong\obj\Debug\netcoreapp3.1\DuckSong.dll
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\DuckSong\obj\Debug\netcoreapp3.1\DuckSong.pdb
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\DuckSong\obj\Debug\netcoreapp3.1\DuckSong.genruntimeconfig.cache

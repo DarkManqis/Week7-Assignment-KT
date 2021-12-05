@@ -1,0 +1,12 @@
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\CakeReplace\bin\Debug\netcoreapp3.1\CakeReplace.exe
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\CakeReplace\bin\Debug\netcoreapp3.1\CakeReplace.deps.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\CakeReplace\bin\Debug\netcoreapp3.1\CakeReplace.runtimeconfig.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\CakeReplace\bin\Debug\netcoreapp3.1\CakeReplace.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\CakeReplace\bin\Debug\netcoreapp3.1\CakeReplace.dll
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\CakeReplace\bin\Debug\netcoreapp3.1\CakeReplace.pdb
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\CakeReplace\obj\Debug\netcoreapp3.1\CakeReplace.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\CakeReplace\obj\Debug\netcoreapp3.1\CakeReplace.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\CakeReplace\obj\Debug\netcoreapp3.1\CakeReplace.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\CakeReplace\obj\Debug\netcoreapp3.1\CakeReplace.dll
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\CakeReplace\obj\Debug\netcoreapp3.1\CakeReplace.pdb
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\CakeReplace\obj\Debug\netcoreapp3.1\CakeReplace.genruntimeconfig.cache

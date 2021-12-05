@@ -1,0 +1,12 @@
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FirstNameReverse\bin\Debug\netcoreapp3.1\FirstNameReverse.exe
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FirstNameReverse\bin\Debug\netcoreapp3.1\FirstNameReverse.deps.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FirstNameReverse\bin\Debug\netcoreapp3.1\FirstNameReverse.runtimeconfig.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FirstNameReverse\bin\Debug\netcoreapp3.1\FirstNameReverse.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FirstNameReverse\bin\Debug\netcoreapp3.1\FirstNameReverse.dll
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FirstNameReverse\bin\Debug\netcoreapp3.1\FirstNameReverse.pdb
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FirstNameReverse\obj\Debug\netcoreapp3.1\FirstNameReverse.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FirstNameReverse\obj\Debug\netcoreapp3.1\FirstNameReverse.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FirstNameReverse\obj\Debug\netcoreapp3.1\FirstNameReverse.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FirstNameReverse\obj\Debug\netcoreapp3.1\FirstNameReverse.dll
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FirstNameReverse\obj\Debug\netcoreapp3.1\FirstNameReverse.pdb
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FirstNameReverse\obj\Debug\netcoreapp3.1\FirstNameReverse.genruntimeconfig.cache

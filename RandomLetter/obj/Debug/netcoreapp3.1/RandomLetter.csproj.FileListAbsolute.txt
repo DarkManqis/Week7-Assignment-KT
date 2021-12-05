@@ -1,0 +1,12 @@
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\RandomLetter\bin\Debug\netcoreapp3.1\RandomLetter.exe
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\RandomLetter\bin\Debug\netcoreapp3.1\RandomLetter.deps.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\RandomLetter\bin\Debug\netcoreapp3.1\RandomLetter.runtimeconfig.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\RandomLetter\bin\Debug\netcoreapp3.1\RandomLetter.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\RandomLetter\bin\Debug\netcoreapp3.1\RandomLetter.dll
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\RandomLetter\bin\Debug\netcoreapp3.1\RandomLetter.pdb
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\RandomLetter\obj\Debug\netcoreapp3.1\RandomLetter.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\RandomLetter\obj\Debug\netcoreapp3.1\RandomLetter.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\RandomLetter\obj\Debug\netcoreapp3.1\RandomLetter.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\RandomLetter\obj\Debug\netcoreapp3.1\RandomLetter.dll
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\RandomLetter\obj\Debug\netcoreapp3.1\RandomLetter.pdb
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\RandomLetter\obj\Debug\netcoreapp3.1\RandomLetter.genruntimeconfig.cache

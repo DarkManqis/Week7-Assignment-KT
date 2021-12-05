@@ -1,0 +1,12 @@
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FullNameInitials\bin\Debug\netcoreapp3.1\FullNameInitials.exe
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FullNameInitials\bin\Debug\netcoreapp3.1\FullNameInitials.deps.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FullNameInitials\bin\Debug\netcoreapp3.1\FullNameInitials.runtimeconfig.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FullNameInitials\bin\Debug\netcoreapp3.1\FullNameInitials.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FullNameInitials\bin\Debug\netcoreapp3.1\FullNameInitials.dll
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FullNameInitials\bin\Debug\netcoreapp3.1\FullNameInitials.pdb
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FullNameInitials\obj\Debug\netcoreapp3.1\FullNameInitials.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FullNameInitials\obj\Debug\netcoreapp3.1\FullNameInitials.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FullNameInitials\obj\Debug\netcoreapp3.1\FullNameInitials.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FullNameInitials\obj\Debug\netcoreapp3.1\FullNameInitials.dll
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FullNameInitials\obj\Debug\netcoreapp3.1\FullNameInitials.pdb
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\FullNameInitials\obj\Debug\netcoreapp3.1\FullNameInitials.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.exe
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.deps.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.runtimeconfig.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.dll
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.pdb
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.csprojAssemblyReference.cache
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.dll
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.pdb
+C:\Users\kasutaja\source\repos\Week7-Assignment-KT\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.genruntimeconfig.cache
